@@ -1,16 +1,11 @@
-# ai_chat_bot
+# OctoSense - AI Chat-bot
 
-A new Flutter project.
+Octosense is a Flutter AI Chat-bot I built using Google's DialogFlow. 
 
-## Getting Started
+## Things to know before cloning this repo
 
-This project is a starting point for a Flutter application.
+As per GitHub's rules I wasn't able to upload the json file into the repo. As a result this repo only contains the code.
 
-A few resources to get you started if this is your first Flutter project:
+If you wish to integrate this application the you will have to create your own API Key and Json file through Google Cloud Console and link it with your dialogflow account.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
